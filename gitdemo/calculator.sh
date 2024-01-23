@@ -8,7 +8,7 @@
 
 ## addition function
 A=4
-SUM=$A+3
+SUM=$A*3;
 echo "Sum is " 
 echo $SUM
 
